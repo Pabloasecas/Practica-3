@@ -27,3 +27,6 @@ a:visited{
 a:active{
     color: gold;
 }
+.little{
+    max-width: 35px;
+}
