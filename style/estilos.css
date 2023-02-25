@@ -41,12 +41,8 @@ a.button:active{
 .little{
     max-width: 35px;
 }
-.logotype{
+header img{
     max-width: 250px;
-    margin-left: 0;
-    margin-bottom: 0;
-    margin-top: 0;
-    vertical-align: middle;
 }
 body{
     margin: 0;
@@ -57,11 +53,7 @@ p{
 }
 h1{
     font-family: 'Tilt Prism', cursive;
-    text-align: center;
     font-size: xxx-large;
-    margin-left: auto;
-    margin-right: auto;
-    vertical-align: middle;
 }
 .button{
     background-color:darkslategrey;
@@ -75,15 +67,19 @@ h1{
     font-size: 16px;
     box-shadow: 3px 3px 3px grey;
 }
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(84, 154, 167);
+    padding: 10px;
+}
 .encabezado{
     height: auto;
     background-color: rgb(84, 154, 167);
     justify-content: center;
     padding: 10px;
 }
-.tit-encabezado{
-    margin: auto;
-    vertical-align: middle;
-    display: flex;
-    flex-direction: row;
+header h1{
+    margin: 0;
 }
