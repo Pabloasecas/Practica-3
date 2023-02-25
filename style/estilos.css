@@ -41,9 +41,6 @@ a.button:active{
 .little{
     max-width: 35px;
 }
-header img{
-    max-width: 250px;
-}
 body{
     margin: 0;
 }
@@ -69,6 +66,7 @@ h1{
 }
 header{
     display: flex;
+    flex-direction: row;
     justify-content: space-between;
     align-items: center;
     background-color: rgb(84, 154, 167);
@@ -82,4 +80,7 @@ header{
 }
 header h1{
     margin: 0;
+}
+header img{
+    max-width: 250px;
 }
