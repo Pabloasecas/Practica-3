@@ -79,11 +79,11 @@ h1{
     height: auto;
     background-color: rgb(84, 154, 167);
     justify-content: center;
-    padding: 20px;
-    display: flex;
-    flex-direction: row;
+    padding: 10px;
 }
 .tit-encabezado{
     margin: auto;
     vertical-align: middle;
+    display: flex;
+    flex-direction: row;
 }
