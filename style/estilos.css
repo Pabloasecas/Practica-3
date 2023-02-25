@@ -63,11 +63,10 @@ h1{
     font-size: 16px;
     box-shadow: 3px 3px 3px grey;
 }
-.header-container{
-    display: flex;
-    flex-direction: row;
-}
 header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
     background-color: rgb(84, 154, 167);
     padding: 10px;
 }
