@@ -41,6 +41,9 @@ a.button:active{
 .little{
     max-width: 35px;
 }
+body{
+    margin: 0;
+}
 p{
     font-family: 'Roboto', sans-serif;
     font-size: small;
