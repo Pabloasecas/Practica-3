@@ -33,3 +33,6 @@ a:active{
 .little{
     max-width: 35px;
 }
+p{
+    font-family: 'Roboto', sans-serif;
+}
