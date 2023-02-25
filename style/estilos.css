@@ -15,7 +15,6 @@
     border-right: 5px solid red;
     border-top: 5px solid red
 }
-
 a:link{
     text-decoration: none;
 }
@@ -64,18 +63,12 @@ h1{
     font-size: 16px;
     box-shadow: 3px 3px 3px grey;
 }
-header{
+.header-container{
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
-    align-items: center;
-    background-color: rgb(84, 154, 167);
-    padding: 10px;
 }
-.encabezado{
-    height: auto;
+header{
     background-color: rgb(84, 154, 167);
-    justify-content: center;
     padding: 10px;
 }
 header h1{
