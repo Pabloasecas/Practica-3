@@ -77,3 +77,6 @@ header h1{
 header img{
     max-width: 250px;
 }
+li{ 
+    font-family: 'Roboto Mono', monospace;
+}
