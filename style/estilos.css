@@ -82,3 +82,6 @@ li{
     display: flex;
     align-items: center;
 }
+li img{
+    margin: 10;
+}
