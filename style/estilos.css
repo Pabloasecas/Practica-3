@@ -51,6 +51,9 @@ h1{
     font-family: 'Golos Text', sans-serif;
     font-size: xxx-large;
 }
+h1.kid{
+    font-family: 'Luckiest Guy', cursive;
+}
 .button{
     background-color:darkslategrey;
     border-radius: 5px;
@@ -81,6 +84,7 @@ li{
     font-family: 'Gloock', serif;
     display: flex;
     align-items: center;
+    padding-right: 10px;
     padding: 10px;
 }
 li img{
