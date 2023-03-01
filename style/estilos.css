@@ -81,6 +81,7 @@ li{
     font-family: 'Gloock', serif;
     display: flex;
     align-items: center;
+    padding: 10px;
 }
 li img{
     margin: 10;
