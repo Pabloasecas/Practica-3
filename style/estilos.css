@@ -23,7 +23,7 @@ a:hover{
     text-decoration: none;
 }
 a:visited{
-    color: rgb(43, 189, 226);
+    background-color: rgb(43, 189, 226);
 }
 a:active{
     background-color:forestgreen;
