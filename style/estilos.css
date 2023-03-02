@@ -46,13 +46,14 @@ h1{
     font-family: 'Luckiest Guy', cursive;
 }
 .button{
-    background-color:darkslategrey;
+    background-color:rgb(73, 139, 112);
     border-radius: 5px;
     border: none;
     color: black;
     display: inline-block;
     padding: 15px 15px;
     text-align: center;
+    align-items: center;
     cursor: pointer;
     font-size: 16px;
     box-shadow: 3px 3px 3px grey;
