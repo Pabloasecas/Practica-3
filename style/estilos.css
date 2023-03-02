@@ -19,22 +19,13 @@ a:link{
     text-decoration: none;
 }
 a:hover{
-    text-decoration: underline;
-}
-a.button:hover{
     font-size: 105%;
     text-decoration: none;
 }
 a:visited{
-    color: blueviolet;
-}
-a.button:visited{
-    color: initial;
+    color: rgb(43, 189, 226);
 }
 a:active{
-    color: gold;
-}
-a.button:active{
     background-color:forestgreen;
 }
 .little{
