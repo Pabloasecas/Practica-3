@@ -12,8 +12,8 @@
     padding: 20px;
     margin-top: 40px;
     align-items: center;
-    border-right: 5px solid red;
-    border-top: 5px solid red
+    border-right: 5px solid rgba(176, 124, 92, 0.224);
+    border-top: 5px solid rgba(176, 124, 92, 0.224);
 }
 a:link{
     text-decoration: none;
