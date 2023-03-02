@@ -91,3 +91,7 @@ li img{
     margin-right: 25px;
     max-width: 86px;
 }
+h2{
+    color: slategrey;
+    font-family: 'Arvo', serif;
+}
